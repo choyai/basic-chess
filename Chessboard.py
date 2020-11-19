@@ -1,8 +1,5 @@
 import numpy as np
 from enum import Enum
-class Color(Enum):
-    LIGHT = 0
-    DARK = 1
 
 class Square:    
 
